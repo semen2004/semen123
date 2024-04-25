@@ -1,8 +1,11 @@
-#include <iostream>
+#incluse <iostream>
 
-using namecpace std;
+using namespace std;
 
 int main()
+
 {
-cout<< "Hello world!" << endl;
+cout<< "Введите ваше имя: " << endl;
+cin >> n;
+cout<< "Hello world from " << n << endl;
 }
